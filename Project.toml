@@ -1,0 +1,4 @@
+name = "raytracer_jl"
+uuid = "8ed489af-fcdf-4436-b38c-e0da7ac051f8"
+authors = ["Baptiste Esteban <baptiste.esteban.27@gmail.com>"]
+version = "0.1.0"
